@@ -1,0 +1,16 @@
+export const GET_MISSIONS="GET_MISSIONS"
+export const GET_MISSIONS_CLEAR = "GET_MISSIONS_CLEAR"
+export const GET_MISSIONS_ERROR="GET_MISSIONS_ERROR"
+export const START_LOADING_="START_LOADING"
+export const STOP_LOADING="STOP_LOADING"
+export const SET_BACKDROP="SET_BACKDROP"
+export const SET_PAGE="SET_PAGE"
+export const SET_LAUNCH="SET_LAUNCH"
+export const LOGIN_USER = "LOGIN_USER";
+export const LOGIN_ERROR = "LOGIN_ERROR";
+export const CLEAR_ERROR = "CLEAR_ERROR";
+export const REGISTER_USER = "REGISTER_USER";
+export const REGISTER_ERROR = "REGISTER_ERROR";
+export const CLEAR_MESSAGE = "CLEAR_MESSAGE";
+export const SET_ALERT = "SET_ALERT";
+export const CLEAR_ALERT = "CLEAR_ALERT";
