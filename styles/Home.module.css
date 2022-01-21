@@ -1,1 +1,11 @@
-.main{padding:5rem 0;flex:1;display:flex;flex-direction:column;justify-content:center;align-items:center}.align{text-align:center;margin-top:20vh}
+.main {
+    margin: auto;
+    margin-bottom: 20px;
+    width: 1152px;
+    position: relative;
+}
+
+.align {
+    text-align: center;
+    margin-top: 20vh
+}

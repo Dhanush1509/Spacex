@@ -13,9 +13,9 @@ const Card = () => {
   console.log(missions[index]);
   const mission = missions[index];
   return (
-    <div className={styles.backdrop}>
+    <div className={styles.backdrop} onClick={setBackdrop}>
       <div className={styles.card}>
-        <GrFormClose onClick={setBackdrop} className={styles.icon} />
+        <GrFormClose  className={styles.icon} />
         <section className={styles.display}>
           {mission.links.mission_patch ? (
             <Image

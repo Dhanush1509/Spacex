@@ -22,10 +22,11 @@ const {backdrop}=useContext(missionContext)
       </Head>
 
           <div className={styles.container}>
-            <section className={styles.backdrop}>
+            <section>
               <Appbar />
+              {backdrop && <Card />}
               <main className={styles.main}>
-                {backdrop && <Card />}
+           
 
                 <Filter />
                 <Table />

@@ -1,1 +1,45 @@
-.pagination{position:absolute;width:240px;height:40px;left:957px;top:880px;display:flex;flex-direction:row;align-items:center;text-align:center;font-size:12px;font-weight:500}.refpages{display:block;width:40px;height:40px;border:1px solid #e4e4e7;padding-top:12px}.list{list-style:none;cursor:pointer}.marginpages{cursor:pointer;list-style:none}.breakpages{cursor:pointer;list-style:none}.active{background-color:#f4f5f7}.disabled{background-color:#fff}
+.pagination {
+ 
+    width: 240px;
+    height: 40px;
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    text-align: center;
+    font-size: 12px;
+    font-weight: 500;
+    margin:20px 0 0 auto;
+    padding:0;
+}
+
+.refpages {
+    display: block;
+    width: 40px;
+    height: 40px;
+    border: 1px solid #e4e4e7;
+    padding-top: 12px
+}
+
+.list {
+    list-style: none;
+    cursor: pointer
+}
+
+.marginpages {
+    cursor: pointer;
+    list-style: none
+}
+
+.breakpages {
+    cursor: pointer;
+    list-style: none
+}
+
+.active {
+    background-color: #f4f5f7
+}
+
+.disabled {
+    background-color: #fff
+}
