@@ -17,11 +17,7 @@
     border-radius: 6px;
     margin-bottom: 20px;
     overflow: auto;
-<<<<<<< HEAD
-    animation:topUp 0.2s;
-=======
     animation:topUp 0.2s; */
->>>>>>> master
 
 }
 @keyframes topUp {

@@ -66,9 +66,3 @@ const Table = () => {
 };
 
 export default Table;
-<<<<<<< HEAD
-
-
- 
-=======
->>>>>>> master
