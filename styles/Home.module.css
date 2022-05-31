@@ -1,0 +1,11 @@
+.main {
+    margin: auto;
+    margin-bottom: 20px;
+    width: 1152px;
+    position: relative;
+}
+
+.align {
+    text-align: center;
+    margin-top: 20vh
+}
