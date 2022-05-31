@@ -24,7 +24,11 @@ const {backdrop}=useContext(missionContext)
           <div className={styles.container}>
             <section>
               <Appbar />
+<<<<<<< HEAD
               {backdrop && <Card />}
+=======
+              <Card />
+>>>>>>> master
               <main className={styles.main}>
            
 

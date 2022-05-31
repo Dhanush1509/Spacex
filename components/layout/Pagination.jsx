@@ -15,7 +15,7 @@ const Pagination = () => {
         previousLabel={"<"}
         nextLabel={">"}
         breakLabel={"..."}
-        breakClassName={"break-me"}
+       
         pageCount={pageCount}
         marginPagesDisplayed={1}
         pageRangeDisplayed={1}
